@@ -1,0 +1,21 @@
+.pavier-box{
+	display:-webkit-box;
+	-webkit-box-align:center;
+	-webkit-box-pack:center;
+	-webkit-box-orign:vertical;
+}
+.pavier-f1{
+	-webkit-box-flex:1;
+}
+.pavier-f2{
+	-webkit-box-flex:2;
+}
+.pavier-f3{
+	-webkit-box-flex:3;
+}
+.pavier-f4{
+	-webkit-box-flex:4;
+}
+.pavier-f5{
+	-webkit-box-flex:5;
+}
